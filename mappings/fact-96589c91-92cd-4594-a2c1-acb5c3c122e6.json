@@ -1,0 +1,28 @@
+{
+  "id" : "96589c91-92cd-4594-a2c1-acb5c3c122e6",
+  "name" : "fact",
+  "request" : {
+    "url" : "/fact",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"fact\":\"hello Retractable claws are a physical phenomenon that sets cats apart from the rest of the animal kingdom. I n the cat family, only cheetahs cannot retract their claws.\",\"length\":163}",
+    "headers" : {
+      "Server" : "nginx",
+      "Date" : "Fri, 06 Jan 2023 19:36:22 GMT",
+      "Content-Type" : "application/json",
+      "Vary" : "Accept-Encoding",
+      "Cache-Control" : "no-cache, private",
+      "X-Ratelimit-Limit" : "100",
+      "X-Ratelimit-Remaining" : "99",
+      "Set-Cookie" : [ "XSRF-TOKEN=eyJpdiI6Ikx1R3VWMHI1OXBPbHB5NmI0Y1RKdGc9PSIsInZhbHVlIjoiSkVnaE95YkhpeGdGb2hrSjVGT3R2YkY5UVdqU21nTWpVTXcxaG01d2lQWEY5TEY3OUx2SEtmVFZoNzVZeTVEcTc3QzRuV25aOUswT3JYNjlSSGtRajFpTllUU1RyZGtLYmgvRjhSdktTNERuS0JzMkF3Z2E2ZEM0SGJZRWtrN3giLCJtYWMiOiJjODg0YTMxZDVjOWM1NjdmZTY1ZmI1YWRkN2M0OWI4ZTk3MmE3MTBhZWIxZjg3ZTU2ZGZmNDU5ZWUyZGFiYWM0IiwidGFnIjoiIn0%3D; expires=Fri, 06-Jan-2023 21:36:22 GMT; path=/; samesite=lax", "catfacts_session=eyJpdiI6Ind3TzdvMEdtN0dZSnBjOFp3b1J1SUE9PSIsInZhbHVlIjoib1VpMmxTSnFNRTRpMk9HV09aS2xhaXdodHkyalpCVTEzYzJlUWp0aTZRU2hwQy9JQ0xsVVFnTm5XZmhJWFRFdTRPWHMyZWJyaTF6RGhxQXlIN0RlYmY5SVJ4OStwUGRXMDZGKzZwNThvWURmczJpV0ZTWG8yL1M1cWtIVFE4QW0iLCJtYWMiOiJmMWYzN2I2NzMwOTc2MjI5MWI1ZDUyYzM5MmI2NzM5OTMzM2I0MTIxMDkwMmQzZjFlM2M5ZmE5YjZkNDdhMTZhIiwidGFnIjoiIn0%3D; expires=Fri, 06-Jan-2023 21:36:22 GMT; path=/; httponly; samesite=lax" ],
+      "X-Frame-Options" : "SAMEORIGIN",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-Content-Type-Options" : "nosniff"
+    }
+  },
+  "uuid" : "96589c91-92cd-4594-a2c1-acb5c3c122e6",
+  "persistent" : true,
+  "insertionIndex" : 3
+}

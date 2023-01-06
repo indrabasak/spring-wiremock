@@ -1,0 +1,14 @@
+spring:
+  main:
+    web-application-type: none
+    application:
+      name: App
+
+wiremock:
+  server:
+    port: 8080
+    root: '/Users/basaki/Development/examples/spring-wiremock'
+    files: file:/Users/basaki/Development/examples/spring-wiremock/__files
+    stubs: file:/Users/basaki/Development/examples/spring-wiremock/mappings
+#    files: classpath:/__files
+#    stubs: classpath:/mappings
